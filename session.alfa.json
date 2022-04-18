@@ -29,12 +29,66 @@
         "public": {
           "type": "Buffer",
           "data": "+nWYmajimEjrgr4Uv+hueLF3Stvlkqd6yKto2PVuZzY="
+        }{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "CKiorfwpxERYOOIZV7Q83fu7TmvbR1iJnhG7hiUjf28="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "kLubFxVjYcQhkehQ4t+bnszvoa9Sg6EgCVkmuzJt9mY="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "4B6lBfqbkJ1GVT8TpDWhdg9fK2s30E4pKOf1b1TnZFM="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "oi7XSr9P4JCgKCuF3PEWY/ByYr4rtR6oPt2yOk8DRGA="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "8OS0gtJqZmsOorxtIW7B085e17dlMEKpsCVaMK/VmUo="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "Kn0bZruyfUyUH3kRQNiyr9mOjBwt7D1NLQkxIqHPXCk="
         }
       },
       "signature": {
         "type": "Buffer",
-        "data": "ghpfFUYNzlalDelGDftGH43FyTKraR/gEgET/Xbtx2uMFlOjw8ssq0OEmv3yEV6wrIt5kpyhuWt/UY6rh/eyDg=="
+        "data": "gvokdeP1ABQG7LZ7feU4Wl5EPI3RYpEBdmtZUqjf0+uzVlVRefTlHtcICf7EiGE0joiCnSN2+4gptVnTbsL0BA=="
       },
+      "keyId": 1
+    },
+    "registrationId": 136,
+    "advSecretKey": "e/u/HEaUcs51CjsWhYttdftI1iJPGsR0fbIm5BMtOxo=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CIbj9MIFEKr+9JIGGAE=",
+      "accountSignatureKey": "82p2pinTjtWyW26KEOKjp2sC9BiO06xtvaHExPka4AM=",
+      "accountSignature": "TARjj3ZJHFYPWuGTCHPjQD1Fs2nXsrCmP0M6Bs1fuJWLRTHLkdUGfYigRwzYTuLr6RU5QLj0IvAaK0bkKVoaBA==",
+      "deviceSignature": "Id6ObJF+N0GC+xG19ZPZT09IyNpYboUhP2BjU6tFZoS1w4URdl/dIeYX4WLKutI12eOByBOOTw3XCcVt3YnPDQ=="
+    },
+    "me": {
+      "id": "12266025963:4@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "ī.am      ❤️҉️"
+    },
+      },
+      "signature": {
+        "type": "Buffer",
+       
+
       "keyId": 1
     },
     "registrationId": 74,
